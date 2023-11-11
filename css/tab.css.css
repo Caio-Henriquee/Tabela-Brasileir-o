@@ -1,0 +1,88 @@
+img {
+    width: 30px ;
+    vertical-align: middle;
+}
+
+.circulo {
+    width: 20px;
+    vertical-align: middle;
+} 
+
+.siglasLegendas {
+    font-size: 13px;
+    color: #8F8F8F;
+    font-weight: bold
+
+}
+
+table {
+    width: 70%;
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 14px; 
+    font-weight: bold;
+    padding: 10px;
+}
+
+th { 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold
+    padding: 10px;
+}
+
+
+.time {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pontos {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+tr:hover {
+    background-color: rgba(240, 239, 234, 0.932);
+    
+
+}
+
+.azul {
+    color: #0d69c5;
+}
+
+.vermelho {
+    color: #C91B04;
+}
+
+.cinza {
+    color: #686262;
+}
+
+h1 {
+    font-size: 35px ;
+    text-align: center;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold
+
+}
+
+caption {
+    caption-side: bottom;
+}
+
+.corFundo {
+    color: #b1b0b0;
+}
